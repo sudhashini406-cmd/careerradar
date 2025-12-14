@@ -198,7 +198,7 @@ export const companies = [
     lastVisited: null,
     hiringType: "Experienced",
     location: "India"
-  }
+  },
    {
     id: 20,
     name: "HashedIn",
