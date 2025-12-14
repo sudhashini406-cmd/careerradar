@@ -201,7 +201,7 @@ export const companies = [
   },
    {
     id: 20,
-    name: "HashedIn",
+    name: "Pleach India Foundation",
     careerUrl: " https://pleachindia.org/careers-2/",
     priority: "Low",
     notes: "Product engineering company",
