@@ -199,4 +199,15 @@ export const companies = [
     hiringType: "Experienced",
     location: "India"
   }
+   {
+    id: 20,
+    name: "HashedIn",
+    careerUrl: " https://pleachindia.org/careers-2/",
+    priority: "Low",
+    notes: "Product engineering company",
+    lastVisited: null,
+    hiringType: "Experienced",
+    location: "India"
+  }
+ 
 ];
