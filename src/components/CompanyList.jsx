@@ -105,7 +105,7 @@ export default function CompanyList() {
           >
             <option value="All">All Locations</option>
             <option value="India">India</option>
-            <option value="Hyderabad">Hyderabad</option>
+            
             <option value="Remote">Remote</option>
           </select>
         </div>
