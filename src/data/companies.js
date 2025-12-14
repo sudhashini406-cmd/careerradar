@@ -200,14 +200,17 @@ export const companies = [
     location: "India"
   },
    {
-    id: 21,
-    name: "Pleach India Foundation",
-    careerUrl: " https://pleachindia.org/careers-2/",
-    priority: "Low",
-    notes: "Product engineering company",
-    lastVisited: null,
-    hiringType: "Experienced",
-    location: "India"
+{
+  id: 21,
+  name: "Pleach India Foundation",
+  careerUrl: "https://pleachindia.org/careers-2/",
+  priority: "medium",
+  notes: "Non-profit organization",
+  lastVisited: null,
+  hiringType: "Experienced",
+  location: "India"
+}
+
   }
  
 ];
