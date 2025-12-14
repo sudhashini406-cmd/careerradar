@@ -200,7 +200,7 @@ export const companies = [
     location: "India"
   },
    {
-    id: 20,
+    id: 21,
     name: "Pleach India Foundation",
     careerUrl: " https://pleachindia.org/careers-2/",
     priority: "Low",
