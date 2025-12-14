@@ -19,5 +19,5 @@ Instead of bookmarking many links and checking them repeatedly, users can browse
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/careerradar.git
+git clone https://github.com/sudhashini406-cmd/careerradar.git
 cd careerradar
